@@ -281,7 +281,7 @@ The hosting platform that I've used for my project is GitHub Pages. To deploy my
 2. Initialised Git using the `git init` command.
 3. Added all files to the Staging area (Git) using the `git add .` command.
 4. Committed the files to Git using the `git commit -m "First commit"` command.
-5. Created a new repository in GitHub called 'Milestone-3'.
+5. Created a new repository in GitHub called 'Milestone-3-fixed-'.
 6. Copied the below code from GitHub into the terminal window:
 
    ```
