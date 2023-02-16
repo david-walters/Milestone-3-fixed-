@@ -1,6 +1,6 @@
 ## NOTE:
 
-All the code here is from my other repository named "Mileestone-3-broken". I was no longer able to deploy my app to the latest version due to a bug which occured after resetting the HEAD (I thought it's ok as I'm the only one working on the repository), and I lost packages which reinstalling was of no use. The easy solution was to create this new repository. So, If you'd like to see the commit stages, please visit the other repository. From here you'll be able to see the latest update of the app.
+All the code here is from my other repository named "Mileestone-3-broken". I was no longer able to deploy my app to the latest version due to a bug. The easy solution was to create this new repository, and I will fix the issue and revert back to the original repository soon. So, If you'd like to see the commit stages, please visit the other repository. From here you'll be able to see the latest update of the app.
 
 # Product Page Challenge - Milestone Project 3
 
