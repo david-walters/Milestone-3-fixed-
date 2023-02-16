@@ -160,7 +160,7 @@ box-shadow: 0 0 0 2px hsl(26, 100%, 55%);
 
 .wrapper {
  display: flex;
- justify-content: center;
+ /* justify-content: center; */
  justify-content: space-around;
 }
 
